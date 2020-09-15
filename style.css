@@ -1,0 +1,41 @@
+article {
+    display: inline-block;
+}
+
+#pirmas {
+    background-color: greenyellow;
+}
+#antras{
+    background-color: aqua;
+}
+#trecias {
+    background-color: red;
+}
+#ketvirtas {
+    background-color: orange;
+}
+section {
+    background-color: purple;
+    height: 800px;
+    width: 800px;
+}
+#virsus {
+    position: relative;
+    top: 40px;
+    left: 350px;
+}
+#kaire {
+    position: relative;
+    top: 400px;
+    left: -150px;
+}
+#apacia {
+    position: relative;
+    top: 750px;
+    left: 250px;
+}
+#desine {
+    position: relative;
+    top: 400px;
+    left: 340px;
+}
